@@ -1,0 +1,9 @@
+app-beach {
+    width: 100%;
+}
+
+@media screen and (min-width: 800px){
+    app-beach {
+        width: 30%;
+    }
+}
