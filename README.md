@@ -10,6 +10,7 @@ What I learned:
 
  - ng generate component
  - use mock data base with interface
+ - passing data to child: @Input() beach:Beach
  - <app-beach *ngFor="let beach of beaches" [beach]="beach">
  - img [src]="beach.img" alt=""
  
