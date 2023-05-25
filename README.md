@@ -14,7 +14,7 @@ What I learned:
  - img [src]="beach.img" alt=""
  
 
-
 Links
+https://priskinzsuzsanna.github.io/angular-photo-gallery/
 
 Screenshot
