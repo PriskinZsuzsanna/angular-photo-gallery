@@ -19,3 +19,4 @@ Links
 https://priskinzsuzsanna.github.io/angular-photo-gallery/
 
 Screenshot
+![png2](https://github.com/PriskinZsuzsanna/angular-photo-gallery/assets/121173949/5cb1f283-eb78-4b9f-aef0-84e5eacbe1ec)
