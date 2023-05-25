@@ -21,7 +21,7 @@ export const BEACHES: Beach[] = [
   },
   {
     id: 4,
-    text: 'Morning Wsaves',
+    text: 'Morning Waves',
     day: 'May 5th at 2:30pm',
     img: "assets/4.jpg"
   },
